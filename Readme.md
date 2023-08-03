@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Rutuja Ambilwade
 
 - Fork this repo.
@@ -11,6 +9,4 @@
 - the virtual environment folder and **pycache** folders, if any should be ignored by git.
 - add the proper requirements file.
 
-=======
-Rutuja Ambilwade
->>>>>>> 8450d8c72fb8fff3953f9940c76f42ddfc20ed19
+
