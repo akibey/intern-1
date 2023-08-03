@@ -1,4 +1,5 @@
-# Task for intern 1
+
+# Rutuja Ambilwade
 
 - Fork this repo.
 - Clone it on your machine.
@@ -8,3 +9,4 @@
 - make a pull request.
 - the virtual environment folder and **pycache** folders, if any should be ignored by git.
 - add the proper requirements file.
+
