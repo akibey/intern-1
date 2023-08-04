@@ -1,4 +1,3 @@
-
 # Rutuja Ambilwade
 
 - Fork this repo.
@@ -9,4 +8,5 @@
 - make a pull request.
 - the virtual environment folder and **pycache** folders, if any should be ignored by git.
 - add the proper requirements file.
+
 
